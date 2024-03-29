@@ -1,11 +1,17 @@
 return {
+    --{
+        --"catppuccin/nvim",
+        --name = "catppuccin",
+        --priority = 1000,
+        --config = function()
+            --vim.cmd("colorscheme catppuccin")
+        --end
+    --},
     {
-        "bluz71/vim-nightfly-guicolors",
-        lazy = false,
-        priority = 1000, -- make sure to load this before all the other start plugins
+        "rose-pine/neovim",
+        name = "rose-pine",
         config = function()
-          -- load the colorscheme here
-          vim.cmd("colorscheme nightfly")
+            vim.cmd("colorscheme rose-pine-moon")
         end
-    }
+    },
 }

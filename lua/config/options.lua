@@ -1,5 +1,4 @@
 local opt = vim.opt
-local cmd = vim.cmd
 local indent = 4
 
 opt.number = true
