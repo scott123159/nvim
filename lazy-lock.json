@@ -1,5 +1,7 @@
 {
-  "lazy.nvim": { "branch": "main", "commit": "0ccf0312270d2d976ec551a9034bf05720f2486b" },
+  "dressing.nvim": { "branch": "master", "commit": "18e5beb3845f085b6a33c24112b37988f3f93c06" },
+  "lazy.nvim": { "branch": "main", "commit": "31ddbea7c10b6920c9077b66c97951ca8682d5c8" },
   "lualine.nvim": { "branch": "master", "commit": "b5e8bb642138f787a2c1c5aedc2a78cb2cebbd67" },
-  "rose-pine": { "branch": "main", "commit": "2d99fea02b7dbf44db47c9ef4336d05607725bef" }
+  "nvim-colorizer.lua": { "branch": "master", "commit": "36c610a9717cc9ec426a07c8e6bf3b3abcb139d6" },
+  "rose-pine": { "branch": "main", "commit": "19055dfe90bfa46a1e5b0a706d13980bdffa2dee" }
 }
