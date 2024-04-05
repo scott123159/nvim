@@ -30,7 +30,6 @@ opt.listchars = {
     precedes = "«",
     nbsp = "×"
 }
---opt.cmdheight = 0
 opt.mouse = "a"
 opt.backup = false
 opt.swapfile = false
